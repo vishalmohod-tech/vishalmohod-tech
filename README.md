@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB;Consistent+Daily+Learner;Focused+on+Backend+%26+Full+Stack" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=2"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -20,14 +24,20 @@ Started from zero coding knowledge → now building complete frontend & backend 
 
 Currently looking for an **Entry-Level Full Stack Developer opportunity**.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00F7FF&height=2"/>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=2"/>
 </p>
 
 ---
@@ -45,13 +55,16 @@ Currently looking for an **Entry-Level Full Stack Developer opportunity**.
 
 More backend-focused and production-ready projects coming soon.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00F7FF&height=2"/>
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishalmohod-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalmohod-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -61,6 +74,10 @@ More backend-focused and production-ready projects coming soon.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishalmohod-tech&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=2"/>
 </p>
 
 ---
@@ -83,6 +100,7 @@ More backend-focused and production-ready projects coming soon.
   <i>Building daily. Improving constantly. Shipping consistently.</i>
 </p>
 
+---
 
 <p align="center">
   <picture>
@@ -95,7 +113,7 @@ More backend-focused and production-ready projects coming soon.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 </p>
+
 <!-- ========================================= -->
 <!--                 END                       -->
 <!-- ========================================= -->
-
