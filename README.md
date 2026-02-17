@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Final-year EMCA student from Nagpur, India.  
+Final-year MCA student from Nagpur, India.  
 Focused on becoming a strong Full Stack Developer by building real-world projects.
 
 Started from zero coding knowledge → now building complete frontend & backend systems.
@@ -83,10 +83,18 @@ More backend-focused and production-ready projects coming soon.
   <i>Building daily. Improving constantly. Shipping consistently.</i>
 </p>
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 </p>
-
 <!-- ========================================= -->
 <!--                 END                       -->
 <!-- ========================================= -->
