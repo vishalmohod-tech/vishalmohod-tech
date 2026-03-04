@@ -20,7 +20,7 @@
 Final-year MCA student from Nagpur, India.  
 Focused on becoming a strong Full Stack Developer by building real-world projects.
 
-Started from zero coding knowledge → now building complete frontend & backend systems.
+Started from zero coding knowledge → now building complete Frontend & Backend systems.
 
 Currently looking for an **Entry-Level Full Stack Developer opportunity**.
 
